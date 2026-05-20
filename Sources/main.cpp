@@ -16,34 +16,30 @@ struct Item {
   unsigned int required_quantity;
 };
 
+void PrintLine(
+  std::string arrow_button_name,
+  ImVec4 color,
+  unsigned int& quantity,
+  std::string text)
+{
+  float spacing = ImGui::GetStyle().ItemInnerSpacing.x;
+  ImGui::TextColored(color, text.c_str());
+  ImGui::SameLine();
+  ImGui::TextColored(color, "%d", quantity);
+  ImGui::SameLine();
+  ImGui::PushItemFlag(ImGuiItemFlags_ButtonRepeat, true);
+  if (ImGui::ArrowButton(("##left_" + arrow_button_name).c_str(), ImGuiDir_Left)) { if (quantity > 0) { quantity--; } }
+  ImGui::SameLine(0.0f, spacing);
+  if (ImGui::ArrowButton(("##right_" + arrow_button_name).c_str(), ImGuiDir_Right)) { quantity++; }
+  ImGui::PopItemFlag();
+}
+
 void PrintItem(Item& item) {
   ImGui::AlignTextToFramePadding();
   ImGui::SeparatorText(item.name.c_str());
-  
-  static int ordered_quantity = item.ordered_quantity;
-  float spacing = ImGui::GetStyle().ItemInnerSpacing.x;
-  ImGui::TextColored(ImVec4(1.0f, 1.0f, 0.0f, 1.0f), "Zakazat:");
-  ImGui::SameLine();
-  ImGui::TextColored(ImVec4(1.0f, 1.0f, 0.0f, 1.0f), "%d", ordered_quantity);
-  ImGui::SameLine();
-  ImGui::PushItemFlag(ImGuiItemFlags_ButtonRepeat, true);
-  if (ImGui::ArrowButton("##a_left", ImGuiDir_Left)) { if (ordered_quantity > 0) { ordered_quantity--; } }
-  ImGui::SameLine(0.0f, spacing);
-  if (ImGui::ArrowButton("##a_right", ImGuiDir_Right)) { ordered_quantity++; }
-  item.ordered_quantity = ordered_quantity;
-  ImGui::PopItemFlag();
 
-  static int required_quantity = item.required_quantity;
-  ImGui::TextColored(ImVec4(1.0f, 0.0f, 1.0f, 1.0f), "Trebuetsia:");
-  ImGui::SameLine();
-  ImGui::TextColored(ImVec4(1.0f, 0.0f, 1.0f, 1.0f), "%d", required_quantity);
-  ImGui::SameLine();
-  ImGui::PushItemFlag(ImGuiItemFlags_ButtonRepeat, true);
-  if (ImGui::ArrowButton("##b_left", ImGuiDir_Left)) { if (required_quantity > 0) { required_quantity--; } }
-  ImGui::SameLine(0.0f, spacing);
-  if (ImGui::ArrowButton("##b_right", ImGuiDir_Right)) { required_quantity++; }
-  item.required_quantity = required_quantity;
-  ImGui::PopItemFlag();
+  PrintLine(item.name + "_ordered", ImVec4(1.0f, 1.0f, 0.0f, 1.0f), item.ordered_quantity, "Zakazat:");
+  PrintLine(item.name + "_required", ImVec4(1.0f, 0.0f, 1.0f, 1.0f), item.required_quantity, "Trebuetsya:");
 }
 
 int main() {
@@ -52,7 +48,7 @@ int main() {
   item.ordered_quantity = 0;
   item.required_quantity = 6;
 
-  sf::RenderWindow window(sf::VideoMode({400, 800}), "ImGui + SFML = <3");
+  sf::RenderWindow window(sf::VideoMode({ 400, 800 }), "Reservation");
   window.setFramerateLimit(60);
   ImGui::SFML::Init(window);
 
@@ -61,7 +57,7 @@ int main() {
   io.Fonts->AddFontFromFileTTF("Fonts/ProggyClean.ttf", 13, NULL, io.Fonts->GetGlyphRangesCyrillic());
   ImGui::SFML::UpdateFontTexture();
 
-  static bool no_titlebar = false;
+  static bool no_titlebar = true;
   static bool no_scrollbar = false;
   static bool no_menu = true;
   static bool no_move = true;
@@ -100,7 +96,6 @@ int main() {
     
     ImGui::Begin("Reservation", p_open, window_flags);
       if (ImGui::CollapsingHeader("Teflony")) { PrintItem(item); }
-      std::cout << item.ordered_quantity << " " << item.required_quantity << std::endl;
     ImGui::End();
 
     //ImGui::ShowDemoWindow();
