@@ -16,6 +16,11 @@ struct Item {
   unsigned int required_quantity;
 };
 
+struct Group {
+  std::string name;
+  Item item;
+}
+
 void PrintLine(
   std::string arrow_button_name,
   ImVec4 color,
