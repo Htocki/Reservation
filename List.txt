@@ -346,35 +346,114 @@
 | Kyocera TASKalfa 2554ci             |                |      |
 | Kyocera TASKalfa 3254ci             |                |      |
 ---------------------------------------------------------------
-| Kyocera 180 TASKalfa                |  [302KK94290]  | 2 шт |
-| Kyocera 181 TASKalfa                |                |      |
-| Kyocera 220 TASKalfa                |                |      |
-| Kyocera 221 TASKalfa                |                |      |
+| Kyocera 180 TASKalfa                | Новые линейки: | 2 шт |
+| Kyocera 181 TASKalfa                |  [302KK94290]  |      |
+| Kyocera 220 TASKalfa                | Старые линейки:|      |
+| Kyocera 221 TASKalfa                |  [302C920061]  |      |
 | Kyocera 255 TASKalfa                |                |      |
-| Kyocera 305 TASKalfa                |                |      |
-| Kyocera FS-6025MFP                  |                |      |
-| Kyocera FS-6030MFP                  |                |      |
-| Kyocera FS-6525MFP                  |                |      |
+| Kyocera 305 TASKalfa                | Взаимозаменяе- |      |
+| Kyocera FS-6025MFP                  |  мость: 100%   |      |
+| Kyocera KM-1620                     |                |      |
 ---------------------------------------------------------------
-| Kyocera 1620 TASKalfa 2 шт
+| Kyocera 1800 TASKalfa               |    [CET7821]   | 1 шт |
+| Kyocera TASKalfa 1800               |                |      |
+| Kyocera TASKalfa 1801               |                |      |
+| Kyocera TASKalfa 2200               |                |      |
+| Kyocera TASKalfa 2201               |                |      |
+| Kyocera TASKalfa 2010               |                |      |
+| Kyocera TASKalfa 2011               |                |      |
+| Kyocera TASKalfa 2210               |                |      |
+| Kyocera TASKalfa 2211               |                |      |
 ---------------------------------------------------------------
-| Kyocera 1800 TASKalfa 1 шт
+| Kyocera FS-3040MFP                  |  [302H425090]  | 1 шт |
+| Kyocera FS-1028MFP                  |  [302F925270]  |      |
+| Kyocera FS-1128MFP                  |  [302J025120]  |      |
+| Kyocera FS-1035MFP                  |                |      |
+| Kyocera FS-1135MFP                  |                |      |
+| Kyocera FS-2100DN                   |                |      |
+| Kyocera FS-3540MFP                  |                |      |
+| Kyocera FS-3640MFP                  |                |      |
+| Kyocera FS-4020DN                   |                |      |
+| Kyocera ECOSYS M3040                |                |      |
+| Kyocera ECOSYS M3540                |                |      |
 ---------------------------------------------------------------
-| Kyocera 3040 1 шт
-| 2000
-| 3140
-| 1028
+| Pantum P3010                        |   [CET211045]  | 2 шт |
+| Pantum P3300                        |                |      |
+| Pantum M6700                        |                |      |
+| Pantum M6800                        |                |      |
+| Pantum M7100                        |                |      |
 ---------------------------------------------------------------
-| Pantum 6700 2 шт
+| Lexmark E260                        |    [40X5344]   | 2 шт |
+| Lexmark E360                        |                |      |
+| Lexmark E460                        |                |      |
+| Lexmark E462                        |                |      |
+| Lexmark X264                        |                |      |
+| Lexmark X363                        |                |      |
+| Lexmark X364                        |                |      |
+| Lexmark X463                        |                |      |
+| Lexmark X464                        |                |      |
+| Lexmark X466                        |                |      |
+| Lexmark MS310                       |                |      |
+| Lexmark MS312                       |                |      |
+| Lexmark MS315                       |                |      |
+| Lexmark MS410                       |                |      |
+| Lexmark MS415                       |                |      |
+| Lexmark MS510                       |                |      |
+| Lexmark MS610                       |                |      |
+| Lexmark MX310                       |                |      |
+| Lexmark MX410                       |                |      |
+| Lexmark MX510                       |                |      |
+| Lexmark MX511                       |                |      |
+| Lexmark MX611                       |                |      |
+| Dell 2330                           |                |      |
+| Dell 2350                           |                |      |
+| Dell 3330                           |                |      |
+| Dell 3333                           |                |      |
+| Dell 3335                           |                |      |
+| Dell B2360                          |                |      |
+| Dell B3460                          |                |      |
+| Dell B3465                          |                |      |
+| Toshiba e-STUDIO 385                |                |      |
+| Toshiba e-STUDIO 475                |                |      |
+| Toshiba e-STUDIO 525                |                |      |
+| Toshiba e-STUDIO 388                |                |      |
+| Toshiba e-STUDIO 478                |                |      |
 ---------------------------------------------------------------
-| lexmark e260 2 шт
-| e360
----------------------------------------------------------------
-| samsung 1510 1 шт
----------------------------------------------------------------
-| samsung ml-2160 2 шт
----------------------------------------------------------------
-| samsung ml-2850 2 шт
+| Samsung ML-2850                     |  [JC66-01663A] | 2 шт |
+| Samsung ML-2851                     |                |      |
+| Samsung ML-3310                     |                |      |
+| Samsung ML-3312                     |                |      |
+| Samsung ML-3710                     |                |      |
+| Samsung ML-3712                     |                |      |
+| Samsung ML-3750                     |                |      |
+| Samsung SCX-4824                    |                |      |
+| Samsung SCX-4828                    |                |      |
+| Samsung SCX-4833                    |                |      |
+| Samsung SCX-4835                    |                |      |
+| Samsung SCX-5637                    |                |      |
+| Samsung SCX-5639                    |                |      |
+| Samsung SCX-5737                    |                |      |
+| Samsung SCX-5739                    |                |      |
+| Samsung ProXpress SL-M3320          |                |      |
+| Samsung ProXpress SL-M3370          |                |      |
+| Samsung ProXpress SL-M3820          |                |      |
+| Samsung ProXpress SL-M3870          |                |      |
+| Samsung ProXpress SL-M4020          |                |      |
+| Samsung ProXpress SL-M4030          |                |      |
+| Samsung ProXpress SL-M4070          |                |      |
+| Samsung ProXpress SL-M4072          |                |      |
+| Samsung ProXpress SL-M4080          |                |      |
+| Xerox Phaser 3250                   |                |      |
+| Xerox Phaser 3320                   |                |      |
+| Xerox Phaser 3330                   |                |      |
+| Xerox WorkCentre 3210               |                |      |
+| Xerox WorkCentre 3220               |                |      |
+| Xerox WorkCentre 3315               |                |      |
+| Xerox WorkCentre 3325               |                |      |
+| Xerox WorkCentre 3335               |                |      |
+| Xerox WorkCentre 3345               |                |      |
+| HP Laser 408dn Printer              |                |      |
+| HP Laser MFP 432fdn                 |                |      |
 ---------------------------------------------------------------
 
 Ролики захвата бумаги
