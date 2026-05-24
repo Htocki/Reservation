@@ -7,51 +7,302 @@
 Выходные лотки
 
 Нагревательные валы
------------------------------------------------------
-| Kyocera ECOSYS M2030dn     |   [CET7849]   | 2 шт |
------------------------------------------------------
-| Kyocera ECOSYS P3045dn     |   [CET7814]   | 2 шт |
------------------------------------------------------
-| Kyocera FS-2100D           |   [CET7813]   | 2 шт |
------------------------------------------------------
-| Kyocera Mita KM-1500       |   [CET0835]   | 1 шт |
------------------------------------------------------
-| Kyocera Taskalfa 1620      |   [CET3409]   | 2 шт |
------------------------------------------------------
-| Kyocera Taskalfa 1800      |   [CET7820]   | 1 шт |
------------------------------------------------------
-| Pantum BP5100DN            |  [CET181021]  | 1 шт |
------------------------------------------------------
-| Pantum M6700               |  [CET181019]  | 2 шт |
------------------------------------------------------
-| Samsumg ML-1910            | [JC66-01256A] | 1 шт |
-| Xerox WorkCentre 3210      |               |
------------------------------------------------------
-| Samsung ML-2160            | [JC66-03089A] | 2 шт |
-| Samsung ML-2165            |               |      |
-| Xerox Phaser 3020BI        |               |      |
-| Xerox WorkCentre 3025BI    |               |      |
------------------------------------------------------
-| Samsung ML-2010            | [JC66-00601A] | 2 шт |
------------------------------------------------------
-| Samsung ML-2851ND          | [JC66-01256B] | 1 шт |
------------------------------------------------------
-| Samsung ML-2950            | [JC66-02993A] | 1 шт |
-| Samsung SCX-4727           |               |      |
-| Samsung Xpress SL-M2620    |               |      |
-| Xerox Phaser 3052          |               |      |
------------------------------------------------------
-| Samsung ML-2955ND          | [JC66-02993A] | 1 шт |
-| Samsung SCX-4728           |               |      |
-| Samsung SCX-4729           |               |      |
------------------------------------------------------
-| Samsung ML-3050            | [JC66-01194A] | 1 шт |
------------------------------------------------------
-| Samsung ML-3310ND          | [JC66-02846A] | 1 шт |
-| Samsung ML-3710            |               |      |
-| Samsung ProXpress SL-M3320 |               |      |
-| Xerox Phaser 3320          |               |      |
------------------------------------------------------
+------------------------------------------------------
+| Kyocera ECOSYS M2030        |   [CET7849]   | 2 шт |
+| Kyocera ECOSYS M2035        |               |      |
+| Kyocera ECOSYS M2530        |               |      |
+| Kyocera ECOSYS M2535        |               |      |
+| Kyocera ECOSYS P2035        |               |      |
+| Kyocera ECOSYS P2135        |               |      |
+| Kyocera FS-1030MFP          |               |      |
+| yocera FS-1120D             |               |      |
+| Kyocera FS-1130MFP          |               |      |
+| Kyocera FS-1320D            |               |      |
+------------------------------------------------------
+| Kyocera ECOSYS M3145        |   [CET7814]   | 2 шт |
+| Kyocera ECOSYS M3550        |               |      |
+| Kyocera ECOSYS M3560        |               |      |
+| Kyocera ECOSYS M3645        |               |      |
+| Kyocera ECOSYS M3655        |               |      |
+| Kyocera ECOSYS M3660        |               |      |
+| Kyocera ECOSYS M3860        |               |      |
+| Kyocera ECOSYS P3045        |               |      |
+| Kyocera ECOSYS P3050        |               |      |
+| Kyocera ECOSYS P3055        |               |      |
+| Kyocera ECOSYS P3060        |               |      |
+| Kyocera ECOSYS P3145        |               |      |
+| Kyocera ECOSYS P3150        |               |      |
+| Kyocera ECOSYS P3155        |               |      |
+| Kyocera ECOSYS P3260        |               |      |
+| Kyocera ECOSYS PA4500       |               |      |
+| Kyocera ECOSYS PA5000       |               |      |
+| Kyocera ECOSYS PA5500       |               |      |
+| Kyocera ECOSYS PA6000       |               |      |
+| Kyocera FS-2100             |               |      |
+| Kyocera FS-4100             |               |      |
+| Kyocera FS-4200             |               |      |
+| Kyocera FS-4300             |               |      |
+------------------------------------------------------
+| Kyocera ECOSYS M3040        |   [CET7813]   | 2 шт |
+| Kyocera ECOSYS M3540        |               |      |
+| Kyocera FS-2100             |               |      |
+------------------------------------------------------
+| Kyocera ECOSYS FS-1020MFP   |   [CET0835]   | 1 шт |
+| Kyocera ECOSYS FS-1025MFP   |               |      |
+| Kyocera ECOSYS FS-1120MFP   |               |      |
+| Kyocera ECOSYS FS-1125MFP   |               |      |
+| Kyocera FS-720              |               |      |
+| Kyocera FS-820              |               |      |
+| Kyocera FS-920              |               |      |
+| Kyocera FS-1000             |               |      |
+| Kyocera FS-1010             |               |      |
+| Kyocera FS-1016MFP          |               |      |
+| Kyocera FS-1018             |               |      |
+| Kyocera FS-1018MFP          |               |      |
+| Kyocera FS-1020             |               |      |
+| Kyocera FS-1030             |               |      |
+| Kyocera FS-1040             |               |      |
+| Kyocera FS-1041             |               |      |
+| Kyocera FS-1060             |               |      |
+| Kyocera FS-1061             |               |      |
+| Kyocera FS-1116MFP          |               |      |
+| Kyocera FS-1118MFP          |               |      |
+| Kyocera FS-1220MFP          |               |      |
+| Kyocera FS-1320MFP          |               |      |
+| Kyocera FS-1325MFP          |               |      |
+| Kyocera KM-1500             |               |      |
+| Kyocera KM-1820             |               |      |
+| Kyocera KM-1850             |               |      |
+------------------------------------------------------
+| Kyocera KM-1620             |   [CET3409]   | 2 шт |
+| Kyocera KM-1635             |               |      |
+| Kyocera KM-1650             |               |      |
+| Kyocera KM-2020             |               |      |
+| Kyocera KM-2035             |               |      |
+| Kyocera KM-2050             |               |      |
+| Kyocera KM-2550             |               |      |
+| Kyocera TASKalfa 180        |               |      |
+| Kyocera TASKalfa 181        |               |      |
+| Kyocera TASKalfa 220        |               |      |
+| Kyocera TASKalfa 221        |               |      |
+------------------------------------------------------
+| Kyocera TASKalfa 1800       |   [CET7820]   | 1 шт |
+| Kyocera TASKalfa 1801       |               |      |
+| Kyocera TASKalfa 2020       |               |      |
+| Kyocera TASKalfa 2021       |               |      |
+| Kyocera TASKalfa 2057       |               |      |
+| Kyocera TASKalfa 2200       |               |      |
+| Kyocera TASKalfa 2201       |               |      |
+| Kyocera TASKalfa 2320       |               |      |
+| Kyocera TASKalfa 2321       |               |      |
+| Kyocera TASKalfa 2358       |               |      |
+------------------------------------------------------
+| Pantum BM5100               |  [CET181021]  | 1 шт |
+------------------------------------------------------
+| Pantum L2300                |  [CET181019]  | 2 шт |
+| Pantum L2350                |               |      |
+| Pantum M15                  |               |      |
+| Pantum M118                 |               |      |
+| Pantum M6700                |               |      |
+| Pantum M6760                |               |      |
+| Pantum M6800                |               |      |
+| Pantum M6860                |               |      |
+| Pantum M7100                |               |      |
+| Pantum M7200                |               |      |
+| Pantum M7300                |               |      |
+| Pantum P3010                |               |      |
+| Pantum P3300                |               |      |
+------------------------------------------------------
+| Samsumg ML-1910             | [JC66-01256A] | 1 шт |
+| Samsung ML-1915             |               |      |
+| Samsung ML-2510             |               |      |
+| Samsung ML-2525             |               |      |
+| Samsung ML-2545             |               |      |
+| Samsung ML-2570             |               |      |
+| Samsung ML-2571             |               |      |
+| Samsung ML-2580             |               |      |
+| Samsung ML-2581             |               |      |
+| Samsung ML-2582             |               |      |
+| Samsung ML-2850             |               |      |
+| Samsung ML-2851             |               |      |
+| Samsung SCX-4600            |               |      |
+| Samsung SCX-4623            |               |      |
+| Samsung SCX-4650            |               |      |
+| Samsung SCX-4655            |               |      |
+| Samsung SCX-4725            |               |      |
+| Samsung SCX-4726            |               |      |
+| Samsung SCX-4824            |               |      |
+| Samsung SCX-4828            |               |      |
+| Xerox Phaser 3124           |               |      |
+| Xerox Phaser 3125           |               |      |
+| Xerox Phaser 3140           |               |      |
+| Xerox Phaser 3155           |               |      |
+| Xerox Phaser 3160           |               |      |
+| Xerox Phaser 3200MFP        |               |      |
+| Xerox Phaser 3250           |               |      |
+| Xerox WorkCentre 3210       |               |      |
+| Xerox WorkCentre 3220       |               |      |
+| Dell Laser Printer 1130     |               |      |
+| Dell Laser Printer 1133     |               |      |
+| Dell Laser Printer 1135     |               |      |
+| Dell Laser Printer 2335     |               |      |
+------------------------------------------------------
+| Samsung ML-2160             | [JC66-03089A] | 2 шт |
+| Samsung ML-2161             |               |      |
+| Samsung ML-2162             |               |      |
+| Samsung ML-2164             |               |      |
+| Samsung ML-2165             |               |      |
+| Samsung ML-2166             |               |      |
+| Samsung ML-2167             |               |      |
+| Samsung ML-2168             |               |      |
+| Samsung SCX-3400            |               |      |
+| Samsung SCX-3401            |               |      |
+| Samsung SCX-3405            |               |      |
+| Samsung SCX-3406            |               |      |
+| Samsung SCX-3407            |               |      |
+| Samsung SF-760              |               |      |
+| Samsung SF-761              |               |      |
+| Samsung SF-765              |               |      |
+| Samsung Xpress SL-M2020     |               |      |
+| Samsung Xpress SL-M2022     |               |      |
+| Samsung Xpress SL-M2070     |               |      |
+| Xerox Phaser 3020           |               |      |
+| Xerox WorkCentre 3025       |               |      |
+| HP Laser 107                |               |      |
+| HP Laser MFP 135            |               |      |
+| HP Laser MFP 137            |               |      |
+| HP Neverstop Laser 1000     |               |      |
+| HP Neverstop Laser MFP 1200 |               |      |
+------------------------------------------------------
+| Samsung ML-1500             | [JC66-00601A] | 2 шт |
+| Samsung ML-1510             |               |      |
+| Samsung ML-1610             |               |      |
+| Samsung ML-1615             |               |      |
+| Samsung ML-1640             |               |      |
+| Samsung ML-1641             |               |      |
+| Samsung ML-1710             |               |      |
+| Samsung ML-1740             |               |      |
+| Samsung ML-1750             |               |      |
+| Samsung ML-2010             |               |      |
+| Samsung ML-2015             |               |      |
+| Samsung SCX-4016            |               |      |
+| Samsung SCX-4116            |               |      |
+| Samsung SCX-4200            |               |      |
+| Samsung SCX-4216            |               |      |
+| Samsung SCX-4300            |               |      |
+| Samsung SCX-4316            |               |      |
+| Samsung SCX-4321            |               |      |
+| Samsung SCX-4521            |               |      |
+| Xerox Phaser 3115           |               |      |
+| Xerox Phaser 3116           |               |      |
+| Xerox Phaser 3117           |               |      |
+| Xerox Phaser 3120           |               |      |
+| Xerox Phaser 3121           |               |      |
+| Xerox Phaser 3122           |               |      |
+| Xerox Phaser 3130           |               |      |
+| Xerox WorkCentre PE16       |               |      |
+| Xerox WorkCentre PE220      |               |      |
+| Toshiba e-STUDIO 180S       |               |      |
+------------------------------------------------------
+| Samsung ML-1910             | [JC66-01256B] | 1 шт |
+| Samsung ML-1915             |               |      |
+| Samsung ML-2510             |               |      |
+| Samsung ML-2525             |               |      |
+| Samsung ML-2545             |               |      |
+| Samsung ML-2570             |               |      |
+| Samsung ML-2571             |               |      |
+| Samsung ML-2580             |               |      |
+| Samsung ML-2581             |               |      |
+| Samsung ML-2582             |               |      |
+| Samsung ML-2850             |               |      |
+| Samsung ML-2851             |               |      |
+| Samsung SCX-4600            |               |      |
+| Samsung SCX-4623            |               |      |
+| Samsung SCX-4650            |               |      |
+| Samsung SCX-4655            |               |      |
+| Samsung SCX-4725            |               |      |
+| Samsung SCX-4726            |               |      |
+| Samsung SCX-4824            |               |      |
+| Samsung SCX-4828            |               |      |
+| Xerox Phaser 3124           |               |      |
+| Xerox Phaser 3125           |               |      |
+| Xerox Phaser 3140           |               |      |
+| Xerox Phaser 3155           |               |      |
+| Xerox Phaser 3160           |               |      |
+| Xerox Phaser 3200MFP        |               |      |
+| Xerox Phaser 3250           |               |      |
+| Xerox WorkCentre 3210       |               |      |
+| Xerox WorkCentre 3220       |               |      |
+| Dell Laser Printer 1130     |               |      |
+| Dell Laser Printer 1133     |               |      |
+| Dell Laser Printer 1135     |               |      |
+| Dell Laser Printer 2335     |               |      |
+------------------------------------------------------
+| Samsung ML-2950             | [JC66-02993A] | 1 шт |
+| Samsung ML-2955             |               |      |
+| Samsung SCX-4705            |               |      |
+| Samsung SCX-4726            |               |      |
+| Samsung SCX-4727            |               |      |
+| Samsung SCX-4728            |               |      |
+| Samsung SCX-4729            |               |      |
+| Samsung Xpress SL-M2620     |               |      |
+| Samsung Xpress SL-M2625     |               |      |
+| Samsung Xpress SL-M2670     |               |      |
+| Samsung Xpress SL-M2675     |               |      |
+| Samsung Xpress SL-M2680     |               |      |
+| Samsung Xpress SL-M2820     |               |      |
+| Samsung Xpress SL-M2825     |               |      |
+| Samsung Xpress SL-M2830     |               |      |
+| Samsung Xpress SL-M2835     |               |      |
+| Samsung Xpress SL-M2870     |               |      |
+| Samsung Xpress SL-M2875     |               |      |
+| Samsung Xpress SL-M2880     |               |      |
+| Samsung Xpress SL-M2885     |               |      |
+| Samsung Xpress SL-M3015     |               |      |
+| Samsung Xpress SL-M3065     |               |      |
+| Xerox B205                  |               |      |
+| Xerox B210                  |               |      |
+| Xerox B215                  |               |      |
+| Xerox Phaser 3052           |               |      |
+| Xerox Phaser 3260           |               |      |
+| Xerox WorkCentre 3215       |               |      |
+| Xerox WorkCentre 3225       |               |      |
+------------------------------------------------------
+| Samsung ML-3050             | [JC66-01194A] | 1 шт |
+| Samsung ML-3051             |               |      |
+| Samsung ML-3470             |               |      |
+| Samsung ML-3471             |               |      |
+| Samsung ML-3472             |               |      |
+| Samsung ML-3475             |               |      |
+| Samsung SCX-5330            |               |      |
+| Samsung SCX-5525            |               |      |
+| Samsung SCX-5635            |               |      |
+| Samsung SCX-5835            |               |      |
+| Xerox Phaser 3428           |               |      |
+| Xerox Phaser 3435           |               |      |
+------------------------------------------------------
+| Samsung ML-3310             | [JC66-02846A] | 1 шт |
+| Samsung ML-3710             |               |      |
+| Samsung ML-3750             |               |      |
+| Samsung SCX-4833            |               |      |
+| Samsung SCX-5637            |               |      |
+| Samsung ProXpress SL-M3320  |               |      |
+| Samsung ProXpress SL-M3370  |               |      |
+| Samsung ProXpress SL-M3820  |               |      |
+| Samsung ProXpress SL-M3870  |               |      |
+| Samsung ProXpress SL-M4020  |               |      |
+| Samsung ProXpress SL-M4030  |               |      |
+| Samsung ProXpress SL-M4070  |               |      |
+| Samsung ProXpress SL-M4080  |               |      |
+| Xerox Phaser 3320           |               |      |
+| Xerox Phaser 3330           |               |      |
+| Xerox WorkCentre 3315       |               |      |
+| Xerox WorkCentre 3325       |               |      |
+| Xerox WorkCentre 3335       |               |      |
+| Xerox WorkCentre 3345       |               |      |
+| HP Laser 408                |               |      |
+| HP Laser MFP 432            |               |      |
+------------------------------------------------------
 
 Картриджи
 ----------------------------
@@ -456,9 +707,13 @@
 | HP Laser MFP 432fdn                 |                |      |
 ---------------------------------------------------------------
 
-Ролики захвата бумаги
+Ролики захвата бумаги нижнего лотка
 
-Ролики отделения бумаги
+Ролики захвата бумаги верхнего лотка
+
+Ролики захвата бумаги автоподатчика
+
+Ролики отделения бумаги нижнего лотка
 
 Термопленки
 ------------------------------------------------------------------------
