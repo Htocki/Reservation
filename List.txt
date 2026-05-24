@@ -462,28 +462,238 @@
 
 Термопленки
 ------------------------------------------------------------------------
-| HP Color LaserJet CP1215               |   [RM1-4430-FILM]   | 1  шт |
+| HP Color LaserJet CP1210               |   [RM1-4430-FILM]   | 1  шт |
+| HP Color LaserJet CP1215               |                     |       |
+| HP Color LaserJet CP1217               |                     |       |
+| HP Color LaserJet CP1510               |                     |       |
+| HP Color LaserJet CP1515               |                     |       |
+| HP Color LaserJet CP1518               |                     |       |
+| HP Color LaserJet CP1525               |                     |       |
+| HP Color LaserJet CP2020               |                     |       |
+| HP Color LaserJet CP2025               |                     |       |
+| HP Color LaserJet CM1312 MFP           |                     |       |
+| HP Color LaserJet CM1312fnw            |                     |       |
+| HP Color LaserJet CM1415fn MFP         |                     |       |
+| HP Color LaserJet CM1415fnw            |                     |       |
+| HP Color LaserJet CM2320 MFP           |                     |       |
+| HP LaserJet Pro 100 Color MFP M175     |                     |       |
+| HP LaserJet Pro 200 Color M251         |                     |       |
+| HP LaserJet Pro 200 Color MFP M276     |                     |       |
+| HP Color LaserJet Pro MFP M176         |                     |       |
+| HP Color LaserJet Pro MFP M177         |                     |       |
+| Canon i-SENSYS LBP5000                 |                     |       |
+| Canon i-SENSYS LBP5050                 |                     |       |
+| Canon i-SENSYS LBP7010                 |                     |       |
+| Canon i-SENSYS LBP7018                 |                     |       |
+| Canon i-SENSYS LBP7100                 |                     |       |
+| Canon i-SENSYS LBP7110                 |                     |       |
+| Canon i-SENSYS MF623                   |                     |       |
+| Canon i-SENSYS MF8030                  |                     |       |
+| Canon i-SENSYS MF8040                  |                     |       |
+| Canon i-SENSYS MF8050                  |                     |       |
+| Canon i-SENSYS MF8080                  |                     |       |
 ------------------------------------------------------------------------
 | HP Color LaserJet Professional CP5220  |  [CE710-69001-FILM] | 1  шт |
+| HP Color LaserJet Professional CP5225  |                     |       |
 ------------------------------------------------------------------------
 | HP Color LaserJet Pro M452             |   [RM2-6435-FILM]   | 1  шт |
+| HP Color LaserJet Pro MFP M377         |                     |       |
+| HP Color LaserJet Pro MFP M477         |                     |       |
+| Canon i-SENSYS MF732                   |                     |       |
+| Canon i-SENSYS MF734                   |                     |       |
+| Canon i-SENSYS MF735                   |                     |       |
+| Canon i-SENSYS LBP653                  |                     |       |
+| Canon i-SENSYS LBP654                  |                     |       |
 ------------------------------------------------------------------------
-| HP LaserJet Enterprise P3015           |   [RM1-6319-FILM]   | 3  шт |
+| HP LaserJet Enterprise P3010           |   [RM1-6319-FILM]   | 3  шт |
+| HP LaserJet Enterprise P3015           |                     |       |
+| HP LaserJet Pro M501                   |                     |       |
+| HP LaserJet Enterprise M506            |                     |       |
+| HP LaserJet Enterprise M507            |                     |       |
+| HP LaserJet Pro MFP M521               |                     |       |
+| HP LaserJet Enterprise 500 MFP M525    |                     |       |
+| HP LaserJet Enterprise MFP M527        |                     |       |
+| HP LaserJet Enterprise MFP M528        |                     |       |
+| Canon i-SENSYS LBP3560                 |                     |       |
+| Canon i-SENSYS LBP3580                 |                     |       |
+| Canon i-SENSYS LBP6750                 |                     |       |
+| Canon i-SENSYS LBP6780                 |                     |       |
+| Canon i-SENSYS MF515                   |                     |       |
+| Canon imageRUNNER 1435                 |                     |       |
+| Canon imageRUNNER 1643                 |                     |       |
 ------------------------------------------------------------------------
-| HP LaserJet P2035/HP LaserJet Pro M102 |   [RM1-6405-FILM]   | 15 шт |
+| HP LaserJet P2030                      |   [RM1-6405-FILM]   | 15 шт |
+| HP LaserJet P2035                      |                     |       |
+| HP LaserJet P2050                      |                     |       |
+| HP LaserJet P2055                      |                     |       |
+| HP LaserJet Pro P1102                  |                     |       |
+| HP LaserJet Pro P1566                  |                     |       |
+| HP LaserJet Pro P1606                  |                     |       |
+| HP LaserJet Pro 400 M401               |                     |       |
+| HP LaserJet Pro M402                   |                     |       |
+| HP LaserJet Pro M403                   |                     |       |
+| HP LaserJet Pro M201                   |                     |       |
+| HP LaserJet Pro M15                    |                     |       |
+| HP LaserJet Pro M16                    |                     |       |
+| HP LaserJet Ultra M106                 |                     |       |
+| HP LaserJet Pro MFP M125               |                     |       |
+| HP LaserJet Pro MFP M127               |                     |       |
+| HP LaserJet Pro MFP M130               |                     |       |
+| HP LaserJet Pro MFP M132               |                     |       |
+| HP LaserJet Pro MFP M225               |                     |       |
+| HP LaserJet Pro MFP M227               |                     |       |
+| HP LaserJet Pro MFP M28                |                     |       |
+| HP LaserJet Pro MFP M29                |                     |       |
+| HP LaserJet Pro 400 MFP M425           |                     |       |
+| HP LaserJet Pro MFP M426               |                     |       |
+| HP LaserJet Pro MFP M427               |                     |       |
+| HP LaserJet M1536dnf MFP               |                     |       |
+| Canon i-SENSYS LBP151                  |                     |       |
+| Canon i-SENSYS LBP251                  |                     |       |
+| Canon i-SENSYS LBP252                  |                     |       |
+| Canon i-SENSYS LBP253                  |                     |       |
+| Canon i-SENSYS LBP6000                 |                     |       |
+| Canon i-SENSYS LBP6030                 |                     |       |
+| Canon i-SENSYS LBP6200                 |                     |       |
+| Canon i-SENSYS LBP6230                 |                     |       |
+| Canon i-SENSYS LBP6300                 |                     |       |
+| Canon i-SENSYS LBP6650                 |                     |       |
+| Canon i-SENSYS LBP6670                 |                     |       |
+| Canon i-SENSYS LBP6680                 |                     |       |
+| Canon i-SENSYS MF3010                  |                     |       |
+| Canon i-SENSYS MF211                   |                     |       |
+| Canon i-SENSYS MF212                   |                     |       |
+| Canon i-SENSYS MF216                   |                     |       |
+| Canon i-SENSYS MF217                   |                     |       |
+| Canon i-SENSYS MF226                   |                     |       |
+| Canon i-SENSYS MF229                   |                     |       |
+| Canon i-SENSYS MF231                   |                     |       |
+| Canon i-SENSYS MF232                   |                     |       |
+| Canon i-SENSYS MF237                   |                     |       |
+| Canon i-SENSYS MF244                   |                     |       |
+| Canon i-SENSYS MF247                   |                     |       |
+| Canon i-SENSYS MF249                   |                     |       |
+| Canon i-SENSYS MF411                   |                     |       |
+| Canon i-SENSYS MF416                   |                     |       |
+| Canon i-SENSYS MF418                   |                     |       |
+| Canon i-SENSYS MF419                   |                     |       |
+| Canon i-SENSYS MF4410                  |                     |       |
+| Canon i-SENSYS MF4430                  |                     |       |
+| Canon i-SENSYS MF4450                  |                     |       |
+| Canon i-SENSYS MF4550                  |                     |       |
+| Canon i-SENSYS MF4570                  |                     |       |
+| Canon i-SENSYS MF4580                  |                     |       |
+| Canon i-SENSYS MF4730                  |                     |       |
+| Canon i-SENSYS MF4750                  |                     |       |
+| Canon i-SENSYS MF4780                  |                     |       |
+| Canon i-SENSYS MF4870                  |                     |       |
+| Canon i-SENSYS MF4890                  |                     |       |
+| Canon i-SENSYS MF5840                  |                     |       |
+| Canon i-SENSYS MF5880                  |                     |       |
+| Canon i-SENSYS MF5940                  |                     |       |
+| Canon i-SENSYS MF5980                  |                     |       |
+| Canon i-SENSYS MF6140                  |                     |       |
+| Canon i-SENSYS MF6180                  |                     |       |
+| Canon imageCLASS D1120                 |                     |       |
+| Canon imageCLASS D1150                 |                     |       |
+| Canon imageCLASS D1170                 |                     |       |
+| Canon imageCLASS D1180                 |                     |       |
+| Canon imageCLASS D1320                 |                     |       |
+| Canon imageCLASS D1350                 |                     |       |
+| Canon imageCLASS D1370                 |                     |       |
+| Canon imageCLASS D1520                 |                     |       |
+| Canon imageCLASS D1550                 |                     |       |
 ------------------------------------------------------------------------
 | HP LaserJet 5000                       |   [RM1-2522-FILM]   | 1  шт |
+| HP LaserJet 5100                       |                     |       |
+| HP LaserJet 5200                       |                     |       |
+| HP LaserJet M5025 MFP                  |                     |       |
+| HP LaserJet M5035 MFP                  |                     |       |
+| HP LaserJet Enterprise M712            |                     |       |
+| HP LaserJet Enterprise MFP M725        |                     |       |
+| Canon LBP3500                          |                     |       |
+| Canon LBP3900                          |                     |       |
+| Canon imageCLASS 2200                  |                     |       |
+| Canon imageCLASS 2210                  |                     |       |
+| Canon imageCLASS 2220                  |                     |       |
 ------------------------------------------------------------------------
-| HP LaserJet 2200                       |   [RG5-5570-FILM]   | 1  шт |
+| HP LaserJet 2100                       |   [RG5-5570-FILM]   | 1  шт |
+| HP LaserJet 2200                       |                     |       |
+| HP LaserJet 2300                       |                     |       |
+| HP LaserJet 2410                       |                     |       |
+| HP LaserJet 2420                       |                     |       |
+| HP LaserJet 2425                       |                     |       |
+| HP LaserJet 2430                       |                     |       |
+| HP LaserJet P3005                      |                     |       |
+| HP LaserJet M3027 MFP                  |                     |       |
+| HP LaserJet M3035 MFP                  |                     |       |
+| HP Color LaserJet 1500                 |                     |       |
+| HP Color LaserJet 2500                 |                     |       |
 ------------------------------------------------------------------------
-| Lexmark MS310/MS410/MS510/MX310/MX410  |    [40X8023-FM3]    | 1  шт |
+| Lexmark M1140                          |    [40X8023-FM3]    | 1  шт |
+| Lexmark M1145                          |                     |       |
+| Lexmark M3150                          |                     |       |
+| Lexmark MS310                          |                     |       |
+| Lexmark MS312                          |                     |       |
+| Lexmark MS315                          |                     |       |
+| Lexmark MS317                          |                     |       |
+| Lexmark MS410                          |                     |       |
+| Lexmark MS415                          |                     |       |
+| Lexmark MS417                          |                     |       |
+| Lexmark MS510                          |                     |       |
+| Lexmark MS517                          |                     |       |
+| Lexmark MS610                          |                     |       |
+| Lexmark MS617                          |                     |       |
+| Lexmark MX310                          |                     |       |
+| Lexmark MX317                          |                     |       |
+| Lexmark MX410                          |                     |       |
+| Lexmark MX417                          |                     |       |
+| Lexmark MX510                          |                     |       |
+| Lexmark MX511                          |                     |       |
+| Lexmark MX517                          |                     |       |
+| Lexmark MX610                          |                     |       |
+| Lexmark MX611                          |                     |       |
+| Lexmark MX617                          |                     |       |
+| Lexmark XM1140                         |                     |       |
+| Lexmark XM1145                         |                     |       |
+| Lexmark XM3150                         |                     |       |
+| Konica Minolta bizhub 3320             |                     |       |
+| Konica Minolta bizhub 3602             |                     |       |
+| Konica Minolta bizhub 3622             |                     |       |
+| Konica Minolta bizhub 4000             |                     |       |
+| Konica Minolta bizhub 4020             |                     |       |
+| Konica Minolta bizhub 4050             |                     |       |
+| Konica Minolta bizhub 4052             |                     |       |
+| Konica Minolta bizhub 4402             |                     |       |
+| Konica Minolta bizhub 4700             |                     |       |
+| Konica Minolta bizhub 4750             |                     |       |
+| Konica Minolta bizhub 4752             |                     |       |
 ------------------------------------------------------------------------
-| Kyocera Ecosys P2040                   |    [FK-1150-FILM]   | 4  шт |
+| Kyocera Ecosys M2040                   |    [FK-1150-FILM]   | 4  шт |
+| Kyocera ECOSYS M2135                   |                     |       |
+| Kyocera ECOSYS M2235                   |                     |       |
+| Kyocera ECOSYS M2540                   |                     |       |
+| Kyocera ECOSYS M2635                   |                     |       |
+| Kyocera ECOSYS M2640                   |                     |       |
+| Kyocera ECOSYS M2735                   |                     |       |
+| Kyocera ECOSYS M2835                   |                     |       |
+| Kyocera ECOSYS P2040                   |                     |       |
+| Kyocera ECOSYS P2235                   |                     |       |
 ------------------------------------------------------------------------
 
 Тканевые накладки
 -----------------------------------------------
-| Kyocera Ecosys P2040 | [FK-1150-PAD] | 4 шт |
+| Kyocera Ecosys M2040 | [FK-1150-PAD] | 4 шт |
+| Kyocera Ecosys M2135 |               |      |
+| Kyocera Ecosys M2235 |               |      |
+| Kyocera Ecosys M2540 |               |      |
+| Kyocera Ecosys M2635 |               |      |
+| Kyocera Ecosys M2640 |               |      |
+| Kyocera Ecosys M2735 |               |      |
+| Kyocera Ecosys M2835 |               |      |
+| Kyocera Ecosys P2040 |               |      |
+| Kyocera Ecosys P2235 |               |      |
+| Kyocera Ecosys P2335 |               |      |
 -----------------------------------------------
 
 Тормозные площадки
